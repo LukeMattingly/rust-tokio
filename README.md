@@ -9,3 +9,5 @@ using tokio as an async runtime for rust, allows for writing of networking apps
 - ecosystem of libraries
 
 following tokio tutorial: https://tokio.rs/tokio/tutorial
+
+`cargo run`
