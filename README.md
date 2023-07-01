@@ -1,11 +1,11 @@
-# rust-tokio
+# rust-tokio mini-redis
 
-tokio is an async runtime for rust, allows for writing of networking apps
+building a redis client and server
+
+using tokio as an async runtime for rust, allows for writing of networking apps
 
 - multi-threaded for async code
 - async version of standard lib
 - ecosystem of libraries
 
 following tokio tutorial: https://tokio.rs/tokio/tutorial
-
-building a redis client and server

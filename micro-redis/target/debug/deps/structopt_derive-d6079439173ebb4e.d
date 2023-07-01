@@ -1,0 +1,10 @@
+C:\Users\Kycool13\Documents\GitHub\rust-tokio\micro-redis\target\debug\deps\structopt_derive-d6079439173ebb4e.dll: C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\lib.rs C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\attrs.rs C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\doc_comments.rs C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\parse.rs C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\spanned.rs C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\ty.rs
+
+C:\Users\Kycool13\Documents\GitHub\rust-tokio\micro-redis\target\debug\deps\structopt_derive-d6079439173ebb4e.d: C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\lib.rs C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\attrs.rs C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\doc_comments.rs C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\parse.rs C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\spanned.rs C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\ty.rs
+
+C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\lib.rs:
+C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\attrs.rs:
+C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\doc_comments.rs:
+C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\parse.rs:
+C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\spanned.rs:
+C:\Users\Kycool13\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.18\src\ty.rs:
